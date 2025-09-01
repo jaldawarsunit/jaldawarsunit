@@ -50,6 +50,7 @@
 
 <!-- Resume & Contact -->
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+  <h3></h3>
   <!-- Resume Button -->
   <a href="https://github.com/jaldawarsunit/jaldawarsunit/raw/main/Sunit_Satish_Jaldawar.docx">
     <img src="https://img.shields.io/badge/Resume-Download-blue?logo=adobeacrobatreader" alt="Resume"/>
