@@ -47,5 +47,6 @@
 
 <h3 align="left">🐍 Contribution Graph:</h3>
 <p align="center">
-  <img src="https://github.com/jaldawarsunit/jaldawarsunit/blob/output/snake.svg" alt="Snake animation" />
+  ![Snake animation]https://github.com/jaldawarsunit/jaldawarsunit/blob/output/snake.svg)
+
 </p>
