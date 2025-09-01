@@ -15,6 +15,7 @@ Hi 👋, I'm Sunit Jaldawar
     📜 CS50x (Harvard), Python (Coursera), Data Science & Analytics(HP LIFE)
     🏆 Star of MGM (2024) for academic & leadership excellence
     🛡️ Virtual Internships in Cybersecurity (Deloitte, Tata)
+    
 <!--
 **jaldawarsunit/jaldawarsunit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
