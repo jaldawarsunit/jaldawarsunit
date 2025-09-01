@@ -1,19 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunit Jaldawar</h1>
-<h3 align="center">🧑‍🔬 Aspiring Data Scientist • 🌐 MERN Stack Developer • 🔐 Cloud & Cybersecurity Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaldawarsunit&label=Profile%20views&color=0e75b6&style=flat" alt="jaldawarsunit" />
-  &nbsp;&nbsp;
-  <a href="mailto:jaldawarsunit@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail" alt="email"></a>
-  &nbsp;&nbsp;
-  <!-- Change filename after you upload your PDF to the repo root -->
-  <a href="https://github.com/jaldawarsunit/jaldawarsunit/raw/main/Sunit_Satish_Jaldawar.docx">
-    <img src="https://img.shields.io/badge/Resume-Download-blue?logo=adobeacrobatreader" alt="Resume Download">
-  </a>
-</p>
-
-<p align="center">🎓 B.Tech IT @ MGM COET | 💡 I love building real-time apps, learning AI/ML, and securing cloud systems.</p>
-
+<h3 align="center">🧑‍🔬 Aspiring Data Scientist • 🌐 Passionate Developer • 🔐 Cloud & Cybersecurity Enthusiast</h3>
+<p align="center">🎓 B.Tech IT @ MGMCEN •💡 I love building real-time apps, learning AI/ML, and securing cloud systems.</p>
+<hr/>
 <ul>
   <li>🌱 Currently learning <b>System Design, Advanced DS/ML, MERN</b></li>
   <li>👯 Open to <b>Internships</b> & <b>Open-Source</b> collaboration</li>
@@ -71,6 +59,17 @@
   <a href="https://www.postman.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
+<hr/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaldawarsunit&label=Profile%20views&color=0e75b6&style=flat" alt="jaldawarsunit" />
+  &nbsp;&nbsp;
+  <a href="mailto:jaldawarsunit@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail" alt="email"></a>
+  &nbsp;&nbsp;
+  <!-- Change filename after you upload your PDF to the repo root -->
+  <a href="https://github.com/jaldawarsunit/jaldawarsunit/raw/main/Sunit_Satish_Jaldawar.docx">
+    <img src="https://img.shields.io/badge/Resume-Download-blue?logo=adobeacrobatreader" alt="Resume Download">
+  </a>
+</p>
 <hr/>
 
 <!-- 
