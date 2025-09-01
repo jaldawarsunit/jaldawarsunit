@@ -8,7 +8,7 @@
 <hr/>
 
 <h2 align="center">🚀 About Me</h2>
-<div align="center">
+<div align="left">
   <p>🌱 Currently learning <b>System Design, Advanced DS/ML, MERN Stack</b></p>
   <p>👯 Open to <b>Internships</b> & <b>Open-Source collaboration</b></p>
   <p>🤝 Seeking guidance in <b>AI/ML projects & Cloud Security</b></p>
