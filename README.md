@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunit Jaldawar</h1>
-<h3 align="center">Aspiring Data Scientist | MERN Stack Developer | Cloud & Cybersecurity Enthusiast</h3>
+<h3 align="center">🎓 Aspiring Data Scientist | 💻 Passionate Developer | ☁️ Cloud & Cybersecurity Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaldawarsunit&label=Profile%20views&color=0e75b6&style=flat" alt="jaldawarsunit" /> </p>
 
@@ -9,14 +9,12 @@
 - 📫 How to reach me **jaldawarsunit@gmail.com**  
 - ⚡ Fun fact **I love solving LeetCode & HackerRank challenges**  
 
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jaldawarsunit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaldawarsunit" height="30" width="40" /></a>
-<a href="https://leetcode.com/yourleetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yourhackerrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yourgfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
+<a href="https://leetcode.com/jaldawarsunit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jaldawarsunit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/jaldawarsunit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
 </p>
 
 ---
