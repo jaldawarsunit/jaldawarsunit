@@ -6,13 +6,31 @@
 </p>
 
 <!-- About Me Section -->
-<div align="center">
+<div align="Left">
   <h2>🚀 About Me</h2>
+  <ul>
+    
+  <li>
   <p>🌱 Currently learning <b>System Design, Advanced DS/ML, MERN Stack</b></p>
+    
+  </li>
+  <li>
   <p>👯 Open to <b>Internships</b> & <b>Open-Source collaboration</b></p>
+    
+  </li>
+  <li>
+    
   <p>🤝 Seeking guidance in <b>AI/ML projects & Cloud Security</b></p>
+  </li>
+  <li>
   <p>⚡ Fun fact: I solve problems on <b>LeetCode</b> & <b>GFG</b> daily 🚀</p>
+    
+  </li>
+  <li>
   <p>📫 Reach me: <b><a href="mailto:jaldawarsunit@gmail.com">jaldawarsunit@gmail.com</a></b></p>
+    
+  </li>
+  </ul>
 </div>
 
 <!-- Connect Section -->
@@ -93,8 +111,8 @@
     <a href="https://github.com/jaldawarsunit/jaldawarsunit/raw/main/Sunit_Satish_Jaldawar.docx">
       <img src="https://img.shields.io/badge/Resume-Download-blue?logo=adobeacrobatreader"/>
     </a>
-  </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=jaldawarsunit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </p>
   </p>
 </div>
