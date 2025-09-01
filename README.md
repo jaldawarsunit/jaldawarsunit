@@ -49,16 +49,14 @@
 
 
 <!-- Resume & Contact -->
-<div align="center">
-    <h2></h2>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+  <!-- Resume Button -->
+  <a href="https://github.com/jaldawarsunit/jaldawarsunit/raw/main/Sunit_Satish_Jaldawar.docx">
+    <img src="https://img.shields.io/badge/Resume-Download-blue?logo=adobeacrobatreader" alt="Resume"/>
+  </a>
 
-  <div>
-    <a href="https://github.com/jaldawarsunit/jaldawarsunit/raw/main/Sunit_Satish_Jaldawar.docx">
-      <img src="https://img.shields.io/badge/Resume-Download-blue?logo=adobeacrobatreader"/>
-    </a>
-    </div>
-    <div>
-      <img src="https://komarev.com/ghpvc/?username=jaldawarsunit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </div>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=jaldawarsunit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </div>
+
 
