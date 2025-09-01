@@ -5,9 +5,9 @@
 <ul>
   <li>🌱 Currently learning <b>System Design, Advanced DS/ML, MERN</b></li>
   <li>👯 Open to <b>Internships</b> & <b>Open-Source</b> collaboration</li>
-  <li>🤝 Seeking help with <b>AI/ML pipelines & Cloud Security</b></li>
+  <li>🤝 Seeking guidance in <b>AI/ML projects & Cloud Security</b></li>
   <li>📫 Reach me: <b>jaldawarsunit@gmail.com</b></li>
-  <li>⚡ Fun fact: I solve problems on <b>LeetCode</b> & <b>HackerRank</b> daily 🚀</li>
+  <li>⚡ Fun fact: I solve problems on <b>LeetCode</b> & <b>GFG</b> daily 🚀</li>
 </ul>
 
 <hr/>
@@ -47,7 +47,6 @@
   <br>
   <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
   <!-- Data / ML -->
   <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
   <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
@@ -70,7 +69,6 @@
     <img src="https://img.shields.io/badge/Resume-Download-blue?logo=adobeacrobatreader" alt="Resume Download">
   </a>
 </p>
-<hr/>
 
 <!-- 
 <h3 align="left">📊 GitHub Stats:</h3>
