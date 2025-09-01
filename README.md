@@ -56,6 +56,7 @@
   <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
   <!-- Web -->
+  <br>
   <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
@@ -72,19 +73,18 @@
 
 <hr/>
 
+<!-- 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<!-- Most Used Languages -->
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaldawarsunit&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
 
-<!-- Core Stats -->
+
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaldawarsunit&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
 </p>
 
-<!-- Streak -->
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaldawarsunit&theme=tokyonight" alt="streak" />
 </p>
@@ -95,6 +95,7 @@
 <p align="center">
   <img src="https://github.com/jaldawarsunit/jaldawarsunit/blob/output/snake.svg" alt="Snake animation" />
 </p>
+-->
 
 <!--
 ✅ Quick notes:
