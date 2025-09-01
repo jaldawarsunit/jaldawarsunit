@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunit Jaldawar</h1>
+<hr/>
 <h3 align="center">🧑‍🔬 Aspiring Data Scientist • 🌐 Passionate Developer • 🔐 Cloud & Cybersecurity Enthusiast</h3>
 <p align="center">🎓 B.Tech IT @ MGMCEN •💡 I love building real-time apps, learning AI/ML, and securing cloud systems.</p>
 <hr/>
