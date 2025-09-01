@@ -50,13 +50,15 @@
 
 <!-- Resume & Contact -->
 <div align="center">
-  <p>
+    <h2></h2>
+
+  <div>
     <a href="https://github.com/jaldawarsunit/jaldawarsunit/raw/main/Sunit_Satish_Jaldawar.docx">
       <img src="https://img.shields.io/badge/Resume-Download-blue?logo=adobeacrobatreader"/>
     </a>
-    <p>
+    </div>
+    <div>
       <img src="https://komarev.com/ghpvc/?username=jaldawarsunit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-    </p>
-  </p>
+  </div>
 </div>
 
